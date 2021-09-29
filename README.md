@@ -12,4 +12,4 @@ Google Developer Student Clubs (GDSC) are community groups for college and unive
 
 [Know more about GDSC]("https://developers.google.com/community/gdsc")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GDSC-SCTCE&show_icons=true&theme=highcontrast&custom_title=GDSC-SCTE%20Github&%20Stats&bg_color=ffffff&text_color=000000&icon_color=ea2128&title_color=2986cc&border_color=53d06a)
+![GDSC-SCTCE GitHub stats](https://github-readme-stats.vercel.app/api?username=GDSC-SCTCE&show_icons=true&theme=highcontrast&custom_title=GDSC-SCTE%20Github&%20Stats&bg_color=ffffff&text_color=000000&icon_color=ea2128&title_color=2986cc&border_color=53d06a)
